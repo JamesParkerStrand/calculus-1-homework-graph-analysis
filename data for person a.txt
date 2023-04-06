@@ -1,0 +1,23 @@
+# the first number represents t in seconds, and the second number (spaced after) represents the current distance covered throughout time
+
+0 0
+1 1
+2 2
+3 4
+4 5
+5 7
+6 9
+7 10
+8 11.5
+9 14
+10 18.5
+11 21.7
+12 29.8
+13 37
+14 47
+15 59
+16 67
+17 73
+18 77
+19 79
+20 80
